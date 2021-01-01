@@ -81,8 +81,8 @@ class App extends Component {
             </div>
             <div className="col-1 spacer"></div>  
           </div>
-          <div className= "life-support">
-            
+
+          <div className= "life-support">     
             <div className="row justify-content-center notation">
               <div className="col-2"></div>
               <div className="col-8">
@@ -126,17 +126,19 @@ class App extends Component {
             </div>
           </div>
 
-          <div className="row justify-content-center">
-            <div className="col-5 button-holder">
+          <div className= "life-support">     
+            <div className="row justify-content-center">
+              <div className="col-5 button-holder">
+                <div className="faux-baxton-lg"
+                        onClick={() => this.addSpell()}>
+                  Cast a Spell
+                </div>
+              </div>
+              <div className="col-5 button-holder">
               <div className="faux-baxton-lg"
-                      onClick={() => this.addSpell()}>
-                Cast a Spell
-              </div>
-            </div>
-            <div className="col-5 button-holder">
-            <div className="faux-baxton-lg"
-                      onClick={() => this.deathRay()}>
-                Fire Death Ray
+                        onClick={() => this.deathRay()}>
+                  Fire Death Ray
+                </div>
               </div>
             </div>
           </div>
@@ -146,27 +148,31 @@ class App extends Component {
               <div className="vertical-spacer"></div>
             </div>
           </div>
-
-          <div className="row justify-content-center">
-          <div className="col-8 col-sm-6 button-holder">
-              <div className="faux-baxton-thin"
-                      onClick={() => this.resetSpellCount()}>
-                End Turn
-              </div>
-            </div>
-          </div>
-
-          <div className="row">
-            <div className="col">
-              <div className="vertical-spacer"></div>
-            </div>
-          </div>
-
-          <div className="row justify-content-center">
+          
+          <div className= "life-support">     
+            <div className="row justify-content-center">
             <div className="col-8 col-sm-6 button-holder">
-              <div className="faux-baxton-thin"
-                      onClick={() => this.resetApp()}>
-                Reset App
+                <div className="faux-baxton-thin"
+                        onClick={() => this.resetSpellCount()}>
+                  End Turn
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row">
+            <div className="col">
+              <div className="vertical-spacer"></div>
+            </div>
+          </div>
+
+          <div className= "life-support">     
+            <div className="row justify-content-center">
+              <div className="col-8 col-sm-6 button-holder">
+                <div className="faux-baxton-thin"
+                        onClick={() => this.resetApp()}>
+                  Reset App
+                </div>
               </div>
             </div>
           </div>
