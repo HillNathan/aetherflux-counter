@@ -81,39 +81,41 @@ class App extends Component {
             </div>
             <div className="col-1 spacer"></div>  
           </div>
-
-          <div className="row justify-content-center notation">
-            <div className="col-2"></div>
-            <div className="col-8">
-              Adjust Life Totals
-            </div>
-            <div className="col-2"></div>
-          </div>
-
-          <div className="row justify-content-center">
-            <div className="col-2 button-holder">
-              <div className="faux-baxton"
-                   onClick={() => this.updateLife(5, "lose")}>
-
-                -5
+          <div className= "life-support">
+            
+            <div className="row justify-content-center notation">
+              <div className="col-2"></div>
+              <div className="col-8">
+                Adjust Life Totals
               </div>
+              <div className="col-2"></div>
             </div>
-            <div className="col-3 button-holder">
-              <div className="faux-baxton"
-                   onClick={() => this.updateLife(1, "lose")}>
-                -1
+
+            <div className="row justify-content-center">
+              <div className="col-2 button-holder">
+                <div className="faux-baxton"
+                    onClick={() => this.updateLife(5, "lose")}>
+
+                  -5
+                </div>
               </div>
-            </div>
-            <div className="col-3 button-holder">
-              <div className="faux-baxton"
-                   onClick={() => this.updateLife(1, "add")}>
-                +1
+              <div className="col-3 button-holder">
+                <div className="faux-baxton"
+                    onClick={() => this.updateLife(1, "lose")}>
+                  -1
+                </div>
               </div>
-            </div>
-            <div className="col-2 button-holder">
-              <div className="faux-baxton" 
-                   onClick={() => this.updateLife(5, "add")}>
-                +5
+              <div className="col-3 button-holder">
+                <div className="faux-baxton"
+                    onClick={() => this.updateLife(1, "add")}>
+                  +1
+                </div>
+              </div>
+              <div className="col-2 button-holder">
+                <div className="faux-baxton" 
+                    onClick={() => this.updateLife(5, "add")}>
+                  +5
+                </div>
               </div>
             </div>
           </div>
@@ -145,10 +147,9 @@ class App extends Component {
             </div>
           </div>
 
-
           <div className="row justify-content-center">
           <div className="col-8 col-sm-6 button-holder">
-              <div className="faux-baxton"
+              <div className="faux-baxton-thin"
                       onClick={() => this.resetSpellCount()}>
                 End Turn
               </div>
