@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hillNathan.github.io/aetherfluxCounter/static/css/main.8e4ef2e0.chunk.css",
-    "main.js": "/hillNathan.github.io/aetherfluxCounter/static/js/main.cd167b1b.chunk.js",
-    "main.js.map": "/hillNathan.github.io/aetherfluxCounter/static/js/main.cd167b1b.chunk.js.map",
-    "runtime-main.js": "/hillNathan.github.io/aetherfluxCounter/static/js/runtime-main.7f9f4b58.js",
-    "runtime-main.js.map": "/hillNathan.github.io/aetherfluxCounter/static/js/runtime-main.7f9f4b58.js.map",
-    "static/js/2.d927947d.chunk.js": "/hillNathan.github.io/aetherfluxCounter/static/js/2.d927947d.chunk.js",
-    "static/js/2.d927947d.chunk.js.map": "/hillNathan.github.io/aetherfluxCounter/static/js/2.d927947d.chunk.js.map",
-    "static/js/3.024ea5cc.chunk.js": "/hillNathan.github.io/aetherfluxCounter/static/js/3.024ea5cc.chunk.js",
-    "static/js/3.024ea5cc.chunk.js.map": "/hillNathan.github.io/aetherfluxCounter/static/js/3.024ea5cc.chunk.js.map",
-    "index.html": "/hillNathan.github.io/aetherfluxCounter/index.html",
-    "static/css/main.8e4ef2e0.chunk.css.map": "/hillNathan.github.io/aetherfluxCounter/static/css/main.8e4ef2e0.chunk.css.map",
-    "static/js/2.d927947d.chunk.js.LICENSE.txt": "/hillNathan.github.io/aetherfluxCounter/static/js/2.d927947d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/hillNathan.github.io/aetherfluxCounter/static/media/Aether-background.cb3dd057.jpg"
+    "main.css": "/aetherflux-counter/static/css/main.0996d3e6.chunk.css",
+    "main.js": "/aetherflux-counter/static/js/main.cd167b1b.chunk.js",
+    "main.js.map": "/aetherflux-counter/static/js/main.cd167b1b.chunk.js.map",
+    "runtime-main.js": "/aetherflux-counter/static/js/runtime-main.7fa4f89c.js",
+    "runtime-main.js.map": "/aetherflux-counter/static/js/runtime-main.7fa4f89c.js.map",
+    "static/js/2.d927947d.chunk.js": "/aetherflux-counter/static/js/2.d927947d.chunk.js",
+    "static/js/2.d927947d.chunk.js.map": "/aetherflux-counter/static/js/2.d927947d.chunk.js.map",
+    "static/js/3.024ea5cc.chunk.js": "/aetherflux-counter/static/js/3.024ea5cc.chunk.js",
+    "static/js/3.024ea5cc.chunk.js.map": "/aetherflux-counter/static/js/3.024ea5cc.chunk.js.map",
+    "index.html": "/aetherflux-counter/index.html",
+    "static/css/main.0996d3e6.chunk.css.map": "/aetherflux-counter/static/css/main.0996d3e6.chunk.css.map",
+    "static/js/2.d927947d.chunk.js.LICENSE.txt": "/aetherflux-counter/static/js/2.d927947d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/aetherflux-counter/static/media/Aether-background.cb3dd057.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f9f4b58.js",
+    "static/js/runtime-main.7fa4f89c.js",
     "static/js/2.d927947d.chunk.js",
-    "static/css/main.8e4ef2e0.chunk.css",
+    "static/css/main.0996d3e6.chunk.css",
     "static/js/main.cd167b1b.chunk.js"
   ]
 }
