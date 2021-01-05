@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aetherflux-counter/static/css/main.d77644dd.chunk.css",
+    "main.css": "/aetherflux-counter/static/css/main.15e1f600.chunk.css",
     "main.js": "/aetherflux-counter/static/js/main.17c044b4.chunk.js",
     "main.js.map": "/aetherflux-counter/static/js/main.17c044b4.chunk.js.map",
     "runtime-main.js": "/aetherflux-counter/static/js/runtime-main.a5dcde03.js",
@@ -10,14 +10,14 @@
     "static/js/3.85623f28.chunk.js": "/aetherflux-counter/static/js/3.85623f28.chunk.js",
     "static/js/3.85623f28.chunk.js.map": "/aetherflux-counter/static/js/3.85623f28.chunk.js.map",
     "index.html": "/aetherflux-counter/index.html",
-    "static/css/main.d77644dd.chunk.css.map": "/aetherflux-counter/static/css/main.d77644dd.chunk.css.map",
+    "static/css/main.15e1f600.chunk.css.map": "/aetherflux-counter/static/css/main.15e1f600.chunk.css.map",
     "static/js/2.7786a2d3.chunk.js.LICENSE.txt": "/aetherflux-counter/static/js/2.7786a2d3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/aetherflux-counter/static/media/Aether-background.cb3dd057.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a5dcde03.js",
     "static/js/2.7786a2d3.chunk.js",
-    "static/css/main.d77644dd.chunk.css",
+    "static/css/main.15e1f600.chunk.css",
     "static/js/main.17c044b4.chunk.js"
   ]
 }
