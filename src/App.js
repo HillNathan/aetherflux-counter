@@ -63,6 +63,10 @@ class App extends Component {
         lifeTotal: newLife
       })
     }
+    else {
+      // pop-up stating you must have at least 50 life to activate the death ray
+      alert("You must have at least 50 life to activate the death ray.")
+    }
   }
 
   render() {
